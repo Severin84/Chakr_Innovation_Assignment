@@ -28,7 +28,7 @@ const Peoplepage = () => {
     const [tasks,setTasks]=useState<Array<Arrayobj>>([]);
     const [firstname,setFirstname]=useState<String>('');
     const [secondname,setSecondname]=useState<String>('');
-    const [taskTigit tle,setTasktitle]=useState<String>('')
+    const [taskTitle,setTasktitle]=useState<String>('')
 
     const toggleComponent=()=>{
         setShowComponent(!showComponent);
