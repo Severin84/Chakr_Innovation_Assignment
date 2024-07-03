@@ -1,40 +1,20 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## People page 
+![Screenshot 2024-07-03 204208](https://github.com/Severin84/Chakr_Innovation_Assignment/assets/91727571/3f915e16-8d59-423b-ae17-c618781f1108)
 
-## Getting Started
+## Task can be added by clicking the +Add Task button and can be deleted by clicking the cross icon.
+![Screenshot 2024-07-03 204245](https://github.com/Severin84/Chakr_Innovation_Assignment/assets/91727571/12d7689a-ccde-4d36-ba24-851df5d2b4fa)
+![Screenshot 2024-07-03 204331](https://github.com/Severin84/Chakr_Innovation_Assignment/assets/91727571/6083ef56-9468-4505-bae6-0198ff152bb2)
 
-First, run the development server:
+## Developed companies page 
+![Screenshot 2024-07-03 204141](https://github.com/Severin84/Chakr_Innovation_Assignment/assets/91727571/510b103e-12a5-49ef-9e74-25a297b7c5ea)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Developed Setting page and two components init namely Profile and Appearance 
+![Screenshot 2024-07-03 204356](https://github.com/Severin84/Chakr_Innovation_Assignment/assets/91727571/580ad754-3cd0-4a46-a63c-47133296b179)
+![Screenshot 2024-07-03 204423](https://github.com/Severin84/Chakr_Innovation_Assignment/assets/91727571/79915890-1ee0-4064-826c-94e51128d90e)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Apperance can be changed as per the choice between Light , Dark , Light purple and Dark Purple. 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-=======
-# Chakr_Innovation_Assignment
->>>>>>> ee1bd5b9b56b6f45b69d430d39774e3751387b5b
+![Screenshot 2024-07-03 204450](https://github.com/Severin84/Chakr_Innovation_Assignment/assets/91727571/2966dc99-e615-4126-8c2d-ae6dd69f4897)
+![Screenshot 2024-07-03 204509](https://github.com/Severin84/Chakr_Innovation_Assignment/assets/91727571/59028379-c85e-4fdf-80f3-80f6cba6dab2)
+![Screenshot 2024-07-03 204528](https://github.com/Severin84/Chakr_Innovation_Assignment/assets/91727571/b7344d5b-c88b-44f8-bc07-8e8de863c125)
+![Screenshot 2024-07-03 204603](https://github.com/Severin84/Chakr_Innovation_Assignment/assets/91727571/a46eb439-955c-41a6-8b04-a32844efc5e0)
