@@ -22,7 +22,7 @@ import Allcompanies from './subcomponents/Allcompanies';
 import Peoplepage from './subcomponents/Peoplepage'; 
 
 
-const page  = () => {
+const Page  = () => {
   const router=useRouter();
   const [component,setComponent]=useState<React.ReactNode>(<div style={{width:"85vw",height:"85.5vh",overflowX:"scroll"}}><Allcompanies/></div>)
   const [componentHeading,setComponentHeading]=useState<React.ReactNode>(<div style={{display:"flex"}}><span><BsBuildings style={{marginTop:"0.2rem"}}/></span><span>Companies</span></div>);
@@ -119,4 +119,4 @@ const page  = () => {
   )
 }
 
-export default page
+export default Page

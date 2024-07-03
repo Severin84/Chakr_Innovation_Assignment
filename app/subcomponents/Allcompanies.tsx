@@ -46,7 +46,7 @@ const Allcompanies = () => {
         <TableBody>
             {
                 data.map((value,idx)=>(
-                    <TableRow style={{display:"flex",justifyContent:"space-between",width:"120rem"}}>
+                    <TableRow key={idx} style={{display:"flex",justifyContent:"space-between",width:"120rem"}}>
                     <TableCell>{value.Name}</TableCell>
                     <TableCell>{value.DominName}</TableCell>
                     <TableCell>{value.AccountOwner}</TableCell>
