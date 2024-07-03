@@ -12,7 +12,7 @@
 ![Screenshot 2024-07-03 204356](https://github.com/Severin84/Chakr_Innovation_Assignment/assets/91727571/580ad754-3cd0-4a46-a63c-47133296b179)
 ![Screenshot 2024-07-03 204423](https://github.com/Severin84/Chakr_Innovation_Assignment/assets/91727571/79915890-1ee0-4064-826c-94e51128d90e)
 
-## Apperance can be changed as per the choice between Light , Dark , Light purple and Dark Purple. 
+## Appearance can be changed as per the choice between Light , Dark , Light purple and Dark Purple. 
 
 ![Screenshot 2024-07-03 204450](https://github.com/Severin84/Chakr_Innovation_Assignment/assets/91727571/2966dc99-e615-4126-8c2d-ae6dd69f4897)
 ![Screenshot 2024-07-03 204509](https://github.com/Severin84/Chakr_Innovation_Assignment/assets/91727571/59028379-c85e-4fdf-80f3-80f6cba6dab2)
